@@ -4,7 +4,7 @@
     "version": "1.3.20",
     "license": "MIT",
     "require":{
-        "larakit/laravel-larakit-staticfiles":"*"
+        "larakit/lk-staticfiles":"*"
     },
     "autoload": {
         "files": [
