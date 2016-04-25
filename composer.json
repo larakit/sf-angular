@@ -1,0 +1,13 @@
+{
+    "name": "larakit/sf-angular",
+    "description": "sf-angular",
+    "license": "MIT",
+    "require":{
+        "larakit/laravel-larakit-staticfiles":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
