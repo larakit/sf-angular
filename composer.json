@@ -1,7 +1,7 @@
 {
     "name": "larakit/sf-angular",
     "description": "sf-angular",
-    "version": "1.3.20",
+    "version": "1.4.10",
     "license": "MIT",
     "require":{
         "larakit/lk-staticfiles":"*"
